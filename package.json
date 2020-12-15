@@ -13,9 +13,9 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "deptest": "file:../deptest",
+    "deptest": "git+https://github.com/cngc4e/LuaAppTest_dep.git#1.0.0",
     "luamin": "^1.0.4",
     "luaparse": "^0.2.1",
-    "onelua": "file:../one-lua"
+    "onelua": "git+https://github.com/cngc4e/onelua.git#1.0.0"
   }
 }
